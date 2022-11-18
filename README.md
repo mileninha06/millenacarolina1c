@@ -12,7 +12,7 @@
 <linkreal="stylessheet"hret"=planeta.jpg'>
 <p> Como reclicar? </p>
 <p> 1 – Reaproveite o lixo orgânico. </p>
-<p> 2 – Reaproveite os lixos secos.  ,/p>
+<p> 2 – Reaproveite os lixos secos.  </p>
 <p> 3 – Tenha cuidado na hora de descartar os lixos recicláveis </p>
 <p> 4 – Descarte o lixo eletrônico apenas em pontos específicos de coleta.</p>
 <body>
@@ -22,4 +22,4 @@
 <p>Desenvolver ações de reciclagem</p>
 <body>
 <linkrel="stylessheet"href"=https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fplaneta&psig=AOvVaw0ywhMDlk0iMeueRU4guseP&ust=1668859531666000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiu4a7Yt_sCFQAAAAAdAAAAABAD.jb>
->p> FAÇA SUA PARTE!</P>
+>p> FAÇA SUA PARTE!</p>
