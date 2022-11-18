@@ -22,4 +22,4 @@
 <p>Desenvolver ações de reciclagem</p>
 <body>
 <linkrel="stylessheet"href"=https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fplaneta&psig=AOvVaw0ywhMDlk0iMeueRU4guseP&ust=1668859531666000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiu4a7Yt_sCFQAAAAAdAAAAABAD.jb>
->p> FAÇA SUA PARTE!</p>
+>p>FAÇA SUA PARTE!</p>
